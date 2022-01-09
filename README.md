@@ -2,5 +2,6 @@
 
  primeiro repositorio local para teste.
  Repositorio criado durante a aula do curso em video de Git e GitHub.
- Do mestre Guanabara.
+ Mestre Guanabara.
+ Alteração direta no Github.com/...
   
